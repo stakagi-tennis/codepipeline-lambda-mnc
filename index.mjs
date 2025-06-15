@@ -2,7 +2,7 @@ export const handler = async (event) => {
   // TODO implement
   const response = {
     statusCode: 200,
-    body: JSON.stringify('Hello from Lambda! 8 times'),
+    body: JSON.stringify('Hello from Lambda! 9 times'),
   };
   return response;
 };
